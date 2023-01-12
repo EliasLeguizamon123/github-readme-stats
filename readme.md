@@ -51,7 +51,7 @@
     ·
     <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
     ·
-    <a href="/docs/readme_it.md">Italiano</a>
+    <a href="/docs/readme_it.md">Italiana</a>
     ·
     <a href="/docs/readme_kr.md">한국어</a>
     .
